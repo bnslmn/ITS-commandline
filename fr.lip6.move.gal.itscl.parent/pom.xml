@@ -347,7 +347,7 @@
 		<repository>
 			<id>ITSTools</id>
 			<layout>p2</layout>
-			<url>https://lip6.github.io/ITSTools/</url>
+			<url>https://bnslmn.github.io/ITSTools/</url>
 		</repository>
 
 		<repository>
